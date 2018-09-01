@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class MovePlayer : MonoBehaviour
 {
     public float speed = 27f;
     private Rigidbody2D rb;
